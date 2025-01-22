@@ -22,7 +22,7 @@ Quick Bio: I am a senior data science major at Belmont University, and I plan to
 - **Recursive Rat Maze**
   - [Recursive Rat Maze](https://github.com/Emorymoore927/Recursive-Rat-Maze)
 - **Online Banking Simulation**
-  - [Banking Simulation](https://github.com/Emorymoore927/Banking-Simulation) ---LINK
+  - [Banking Simulation](https://github.com/Emorymoore927/Banking-Simulation) 
 - **Title**
   - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) ---LINK
 - **Title**
