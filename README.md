@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Hello, I'm Emory!</h1> 
+Quick Bio: I am a senior data science major at Belmont University, and I plan to pursue a Masters of Science in Data Science in the fall of 2025.
+
+<h2>Belmont University Projects:</h2>
+<h3> Programming I and II Projects:</h3>
+- <b>Title</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) ---LINK
+- <b>Title</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) ---LINK
+- <b>Title</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) ---LINK
+- <b>Title</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) ---LINK
+  
+<h3> Data Science Projects: </h3>
+- <b>Title</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) ---LINK
+- <b>Title</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) ---LINK
+- <b>Title</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) ---LINK
+- <b>Title</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) ---LINK
 
 <!--
-**Emorymoore927/Emorymoore927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
