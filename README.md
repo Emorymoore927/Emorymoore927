@@ -25,7 +25,9 @@ Quick Bio: I am a senior data science major at Belmont University, and I plan to
   - [Banking Simulation](https://github.com/Emorymoore927/Banking-Simulation) 
 - **Airline Simulation**
   - [Flight-Simulation](https://github.com/Emorymoore927/Flight-Simulation)
-- **Title**
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) ---LINK
+- **Bullseye**
+  - [Bullseye](https://github.com/Emorymoore927/Bullseye)
+- **Birthday Game**
+  - [Birthday Guessing Game](https://github.com/Emorymoore927/Birthday-Guessing-Game) 
 
 <!--
