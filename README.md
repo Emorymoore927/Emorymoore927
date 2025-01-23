@@ -9,8 +9,8 @@ Quick Bio: I am a senior data science major at Belmont University, and I plan to
   - [Sleep-Health-](https://github.com/Emorymoore927/Sleep-Health-) 
 - **Bike Rental Data Analysis**
   - [Bike-Rental-Analysis](https://github.com/Emorymoore927/Bike-Rental-Analysis) 
-- **Bayes Project Placeholder**
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) ---LINK
+- **Spotify Dataset Analysis**
+  - [Spotify-Dataset-Analysis](https://github.com/Emorymoore927/Spotify-Dataset-Analysis) 
 
 ### Computer Science Projects:
 - **Recursive Rat Maze**
