@@ -10,7 +10,9 @@ Quick Bio: I am a senior data science major at Belmont University, and I plan to
 - **Bike Rental Data Analysis**
   - [Bike-Rental-Analysis](https://github.com/Emorymoore927/Bike-Rental-Analysis) 
 - **Spotify Dataset Analysis**
-  - [Spotify-Dataset-Analysis](https://github.com/Emorymoore927/Spotify-Dataset-Analysis) 
+  - [Spotify-Dataset-Analysis](https://github.com/Emorymoore927/Spotify-Dataset-Analysis)
+- **Athlete Readiness Prediction**
+  - [Predicting_Athlete_Readiness](https://github.com/Emorymoore927/Predicting_Athlete_Readiness) 
 
 ### Computer Science Projects:
 - **Recursive Rat Maze**
