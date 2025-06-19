@@ -1,6 +1,6 @@
 # Hello, I'm Emory!
 
-Quick Bio: I am a senior data science major at Belmont University, and I plan to pursue a Masters of Science in Data Science in the fall of 2025.
+Master of Science in Analytics Candidate at Georgia Institute of Technology | Honors Student-Athlete Graduate from Belmont University
 
 ## Belmont University Projects:
 
